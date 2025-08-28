@@ -27,12 +27,10 @@ GSAP, Three.js, Framer Motion, Metal
 - **Laptop:** MacBook Pro 14" (M1 MAX, 32GB RAM, 512GB, 2021)
 - **Laptop 2:** MSI Katana 15,6" (Intel Core i7 13700H, 16GB RAM, 512TB SSD, 2023)
 - **Desktop 1:** Mac Studio (M1 MAX, 32GB RAM, 512GB SSD, 2022)
-- **Desktop 2:** Self-built PC (Ryzen 7 5800X, 128GB RAM, 9TB, 3080 RTX)
+- **Desktop 2:** Self-built PC (Ryzen 7 5800X, 128GB RAM, 9TB SSD/HDD, 3080 RTX)
 
 - **Self Hosted Server:** Ideapad 5 (Ryzen 7 5800H, 16GB RAM, 512GB SSD, 2021)
 
 ---
 
 _PS. If you think it is weird I try to learn new languages and different technologies, I wanna tell you that I was once a ActionScript/Flash developer and they killed it. So staying relevant and curious is important._
-
----
